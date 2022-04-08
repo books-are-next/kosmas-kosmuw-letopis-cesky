@@ -1,0 +1,271 @@
+{
+  "author": "Kosmas",
+  "contenttype": "prose",
+  "identifier": "kosmas-kosmuw-letopis-cesky-79e2d04",
+  "languagecode": "cs",
+  "publishershort": "mkp",
+  "title": "Kosmůw letopis český",
+  "revision": "79e2d04",
+  "generatedAt": {
+    "date": "Fri Apr 08 2022 11:12:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649416351507
+  },
+  "documents": [
+    {
+      "title": "Kosmůw letopis český",
+      "file": "3.html",
+      "words": 409,
+      "chars": 2706,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "4.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Předmluwa.",
+              "id": "předmluwa",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kosmůw letopis český",
+      "file": "4.html",
+      "words": 167,
+      "chars": 1130,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "3.html",
+      "next": "5.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Počíná se předmluwa ku proboštowi Šebířowi.",
+              "id": "počíná-senbsppředmluwa-kunbspproboštowi-šebířowi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kosmůw letopis český",
+      "file": "5.html",
+      "words": 539,
+      "chars": 3317,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "4.html",
+      "next": "6.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Opět k mistru Gervasiowi předmluwa následujícího díla.",
+              "id": "opět-knbspmistru-gervasiowi-předmluwa-následujícího-díla",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kosmůw letopis český",
+      "file": "6.html",
+      "words": 17091,
+      "chars": 104235,
+      "ideas": 255,
+      "role": "chapter",
+      "order": 3,
+      "prev": "5.html",
+      "next": "7.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Počínají se prwní knížky letopisu českého, jejž složil Kosmas děkan Pražského kostela.",
+              "id": "počínají-senbspprwní-knížky-letopisu-českého-jejž-složil-kosmas-děkan-pražského-kostela",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kosmůw letopis český",
+      "file": "7.html",
+      "words": 285,
+      "chars": 1854,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 4,
+      "prev": "6.html",
+      "next": "8.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Počíná se předmluwa ku Klimentowi, opatu kostela Břewnowského.",
+              "id": "počíná-senbsppředmluwa-kunbspklimentowi-opatu-kostela-břewnowského",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kosmůw letopis český",
+      "file": "8.html",
+      "words": 17748,
+      "chars": 108313,
+      "ideas": 147,
+      "role": "chapter",
+      "order": 5,
+      "prev": "7.html",
+      "next": "9.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Počínají se knihy druhé.",
+              "id": "počínají-senbspknihy-druhé",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kosmůw letopis český",
+      "file": "9.html",
+      "words": 334,
+      "chars": 2098,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 6,
+      "prev": "8.html",
+      "next": "10.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Počíná se předmluwa téhož děkana swrchuřečeného k třetím knihám téhož díla.",
+              "id": "počíná-senbsppředmluwa-téhož-děkana-swrchuřečeného-knbsptřetím-knihám-téhož-díla",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kosmůw letopis český",
+      "file": "10.html",
+      "words": 17777,
+      "chars": 107593,
+      "ideas": 193,
+      "role": "chapter",
+      "order": 7,
+      "prev": "9.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Počínají se knihy třetí téhož díla.",
+              "id": "počínají-senbspknihy-třetí-téhož-díla",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Kosmůw letopis český",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 1127,
+      "ideas": 15,
+      "role": "colophon",
+      "order": null,
+      "prev": "10.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 54500,
+      "chars": 332402,
+      "ideas": 632
+    },
+    "chapters": {
+      "words": 54350,
+      "chars": 331246,
+      "ideas": 614
+    }
+  }
+}

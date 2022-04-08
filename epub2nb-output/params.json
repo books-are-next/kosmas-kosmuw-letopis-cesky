@@ -1,9 +1,12 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Kosmůw letopis český",
       "identifier": "fd582275-2f57-45f2-a880-e807fe1ae144",
-      "author": "Kosmas"
+      "author": "Kosmas",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -28,39 +31,43 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "1.md",
             "xhtml": "1.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "2.md",
             "xhtml": "2.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "section0001.md",
             "xhtml": "Section0001.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "3.md",
@@ -71,7 +78,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Předmluwa"
           },
           {
             "filename": "4.md",
@@ -82,7 +91,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Počíná se předmluwa ku proboštowi Šebířowi"
           },
           {
             "filename": "5.md",
@@ -93,7 +104,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Opět k mistru Gervasiowi předmluwa následujícího díla"
           },
           {
             "filename": "6.md",
@@ -104,7 +117,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Počínají se prwní knížky letopisu českého, jejž složil Kosmas děkan Pražského kostela"
           },
           {
             "filename": "7.md",
@@ -115,7 +130,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Počíná se předmluwa ku Klimentowi, opatu kostela Břewnowského"
           },
           {
             "filename": "8.md",
@@ -126,7 +143,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Počínají se knihy druhé"
           },
           {
             "filename": "9.md",
@@ -137,7 +156,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Počíná se předmluwa téhož děkana swrchuřečeného k třetím knihám téhož díla"
           },
           {
             "filename": "10.md",
@@ -148,18 +169,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Počínají se knihy třetí téhož díla"
           },
           {
             "filename": "12.md",
             "xhtml": "12.xhtml",
             "id": 11,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -279,6 +303,6 @@
       "user": "books-are-next",
       "repo": "kosmas-kosmuw-letopis-cesky"
     },
-    "generatedAt": 1649415890715
+    "generatedAt": 1649416292888
   }
 }
