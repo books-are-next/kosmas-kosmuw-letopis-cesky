@@ -22,35 +22,7 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children:
-      - link: 3.html
-        title: Předmluwa
-        hiddenTitle: true
-      - link: 4.html
-        title: Počíná se předmluwa ku proboštowi Šebířowi
-        hiddenTitle: true
-      - link: 5.html
-        title: Opět k mistru Gervasiowi předmluwa následujícího díla
-        hiddenTitle: true
-      - link: 6.html
-        title: >-
-          Počínají se prwní knížky letopisu českého, jejž složil Kosmas děkan
-          Pražského kostela
-        hiddenTitle: true
-      - link: 7.html
-        title: Počíná se předmluwa ku Klimentowi, opatu kostela Břewnowského
-        hiddenTitle: true
-      - link: 8.html
-        title: Počínají se knihy druhé
-        hiddenTitle: true
-      - link: 9.html
-        title: >-
-          Počíná se předmluwa téhož děkana swrchuřečeného k třetím knihám téhož
-          díla
-        hiddenTitle: true
-      - link: 10.html
-        title: Počínají se knihy třetí téhož díla
-        hiddenTitle: true
+    children: []
     isSection: true
     listType: plain
 static:
