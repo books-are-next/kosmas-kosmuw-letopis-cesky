@@ -79,7 +79,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Předmluwa",
             "children": []
           },
           {
@@ -92,7 +92,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Počíná se předmluwa ku proboštowi Šebířowi",
             "children": []
           },
           {
@@ -105,7 +105,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Opět k mistru Gervasiowi předmluwa následujícího díla",
             "children": []
           },
           {
@@ -118,7 +118,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Počínají se prwní knížky letopisu českého, jejž složil Kosmas děkan Pražského kostela",
             "children": []
           },
           {
@@ -131,7 +131,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Počíná se předmluwa ku Klimentowi, opatu kostela Břewnowského",
             "children": []
           },
           {
@@ -144,7 +144,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Počínají se knihy druhé",
             "children": []
           },
           {
@@ -157,7 +157,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Počíná se předmluwa téhož děkana swrchuřečeného k třetím knihám téhož díla",
             "children": []
           },
           {
@@ -170,7 +170,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "",
+            "title": "Počínají se knihy třetí téhož díla",
             "children": []
           },
           {
@@ -303,6 +303,6 @@
       "user": "books-are-next",
       "repo": "kosmas-kosmuw-letopis-cesky"
     },
-    "generatedAt": 1649416604925
+    "generatedAt": 1649416936240
   }
 }
