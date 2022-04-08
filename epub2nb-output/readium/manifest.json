@@ -1,0 +1,127 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Kosmůw letopis český",
+    "identifier": "fd582275-2f57-45f2-a880-e807fe1ae144",
+    "author": "Kosmas",
+    "language": "cs",
+    "cover": "obalka.jpg",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/1.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/2.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/3.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/4.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/5.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/6.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/7.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/8.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/9.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/10.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/12.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "height": 1653,
+      "width": 1169,
+      "rel": "cover",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluwa.",
+      "href": "OEBPS/Text/3.xhtml"
+    },
+    {
+      "title": "Počíná se předmluwa ku proboštowi Šebířowi.",
+      "href": "OEBPS/Text/4.xhtml"
+    },
+    {
+      "title": "Opět k mistru Gervasiowi předmluwa následujícího díla.",
+      "href": "OEBPS/Text/5.xhtml"
+    },
+    {
+      "title": "Počínají se prwní knížky letopisu českého, jejž složil Kosmas děkan Pražského kostela.",
+      "href": "OEBPS/Text/6.xhtml"
+    },
+    {
+      "title": "Počíná se předmluwa ku Klimentowi, opatu kostela Břewnowského.",
+      "href": "OEBPS/Text/7.xhtml"
+    },
+    {
+      "title": "Počínají se knihy druhé.",
+      "href": "OEBPS/Text/8.xhtml"
+    },
+    {
+      "title": "Počíná se předmluwa téhož děkana swrchuřečeného k třetím knihám téhož díla.",
+      "href": "OEBPS/Text/9.xhtml"
+    },
+    {
+      "title": "Počínají se knihy třetí téhož díla.",
+      "href": "OEBPS/Text/10.xhtml"
+    }
+  ],
+  "landmarks": [
+    {
+      "title": "Cover",
+      "href": "OEBPS/Text/1.xhtml"
+    }
+  ]
+}
