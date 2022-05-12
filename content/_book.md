@@ -11,6 +11,7 @@ meta:
   author: Kosmas
   publisherShort: mkp
 readingOrder:
+  - promo.html
   - 3.html
   - 4.html
   - 5.html
