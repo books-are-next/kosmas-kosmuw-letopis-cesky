@@ -6,9 +6,10 @@
   "author": "Kosmas",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kosmas-kosmuw-letopis-cesky-ffca623",
-  "revision": "ffca623",
+  "identifier": "kosmas-kosmuw-letopis-cesky-944bd52",
+  "revision": "944bd52",
   "readingOrder": [
+    "promo.html",
     "3.html",
     "4.html",
     "5.html",
@@ -20,10 +21,22 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:42:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352156412
+    "date": "Thu May 12 2022 15:12:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368363636
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "3.html",
+      "toc": []
+    },
     {
       "title": "Kosmůw letopis český",
       "file": "3.html",
@@ -31,8 +44,8 @@
       "chars": 2706,
       "ideas": 7,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "4.html",
       "toc": [
         {
@@ -59,7 +72,7 @@
       "chars": 1130,
       "ideas": 2,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "3.html",
       "next": "5.html",
       "toc": [
@@ -87,7 +100,7 @@
       "chars": 3317,
       "ideas": 4,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "4.html",
       "next": "6.html",
       "toc": [
@@ -115,7 +128,7 @@
       "chars": 104235,
       "ideas": 255,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "5.html",
       "next": "7.html",
       "toc": [
@@ -143,7 +156,7 @@
       "chars": 1854,
       "ideas": 2,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "6.html",
       "next": "8.html",
       "toc": [
@@ -171,7 +184,7 @@
       "chars": 108313,
       "ideas": 147,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "7.html",
       "next": "9.html",
       "toc": [
@@ -199,7 +212,7 @@
       "chars": 2098,
       "ideas": 4,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "8.html",
       "next": "10.html",
       "toc": [
@@ -227,7 +240,7 @@
       "chars": 107593,
       "ideas": 193,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "9.html",
       "next": "colophon.html",
       "toc": [
