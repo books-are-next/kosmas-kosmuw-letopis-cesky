@@ -1,14 +1,27 @@
 {
-  "author": "Kosmas",
-  "contenttype": "prose",
-  "identifier": "kosmas-kosmuw-letopis-cesky-6c2b5d6",
-  "languagecode": "cs",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kosmůw letopis český",
-  "revision": "6c2b5d6",
+  "author": "Kosmas",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kosmas-kosmuw-letopis-cesky-ffca623",
+  "revision": "ffca623",
+  "readingOrder": [
+    "3.html",
+    "4.html",
+    "5.html",
+    "6.html",
+    "7.html",
+    "8.html",
+    "9.html",
+    "10.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 08 2022 11:23:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649416993133
+    "date": "Thu May 12 2022 10:42:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352156412
   },
   "documents": [
     {
@@ -236,11 +249,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kosmůw letopis český",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 145,
-      "chars": 1127,
-      "ideas": 15,
+      "words": 135,
+      "chars": 990,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "10.html",
@@ -258,9 +271,9 @@
   ],
   "totals": {
     "all": {
-      "words": 54500,
-      "chars": 332402,
-      "ideas": 632
+      "words": 54490,
+      "chars": 332265,
+      "ideas": 631
     },
     "chapters": {
       "words": 54350,
