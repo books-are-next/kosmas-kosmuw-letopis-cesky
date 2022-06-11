@@ -6,8 +6,8 @@
   "author": "Kosmas",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kosmas-kosmuw-letopis-cesky-90ce540",
-  "revision": "90ce540",
+  "identifier": "kosmas-kosmuw-letopis-cesky-8f1f0c3",
+  "revision": "8f1f0c3",
   "readingOrder": [
     "promo.html",
     "3.html",
@@ -21,8 +21,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:51:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883507050
+    "date": "Sat Jun 11 2022 12:05:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949119842
   },
   "documents": [
     {
