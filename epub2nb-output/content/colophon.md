@@ -7,7 +7,7 @@ Kosmas
 Vydala **Městská knihovna v Praze**    
 Mariánské nám. 1, 115 72 Praha 1  
 Vydání 1.    
-V MKP 1. elektronické vydání z 14. 6. 2022.
+V MKP 1. elektronické vydání z 15. 6. 2022.
 
 ***
 
@@ -25,7 +25,7 @@ Vydání (obálka, grafická úprava), jehož autorem je Městská knihovna v Pr
 
 Citační záznam této e-knihy:
 
-KOSMAS. Kosmůw letopis český \[online\]. V MKP 1. elektronické vydání z 14. 6. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 14. 6. 2022]. Dostupné z <[books-are-next.github.io/kosmas-kosmuw-letopis-cesky](https://books-are-next.github.io/kosmas-kosmuw-letopis-cesky/)>.
+KOSMAS. Kosmůw letopis český \[online\]. V MKP 1. elektronické vydání z 15. 6. 2022. Praha : Městská knihovna v Praze, 2011 \[cit. 15. 6. 2022]. Dostupné z <[books-are-next.github.io/kosmas-kosmuw-letopis-cesky](https://books-are-next.github.io/kosmas-kosmuw-letopis-cesky/)>.
 
 ***
 
