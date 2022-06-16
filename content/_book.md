@@ -10,6 +10,7 @@ meta:
   identifier: fd582275-2f57-45f2-a880-e807fe1ae144
   author: Kosmas
   publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - 3.html
