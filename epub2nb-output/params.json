@@ -6,7 +6,8 @@
       "title": "Kosmůw letopis český",
       "identifier": "fd582275-2f57-45f2-a880-e807fe1ae144",
       "author": "Kosmas",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -303,6 +304,6 @@
       "user": "books-are-next",
       "repo": "kosmas-kosmuw-letopis-cesky"
     },
-    "generatedAt": 1655271624099
+    "generatedAt": 1655364242220
   }
 }
