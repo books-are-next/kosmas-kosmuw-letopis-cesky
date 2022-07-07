@@ -7,8 +7,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kosmas-kosmuw-letopis-cesky-a9be486",
-  "revision": "a9be486",
+  "identifier": "kosmas-kosmuw-letopis-cesky-61717df",
+  "revision": "61717df",
   "readingOrder": [
     "promo.html",
     "3.html",
@@ -19,11 +19,11 @@
     "8.html",
     "9.html",
     "10.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:11:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979060263
+    "date": "Thu Jul 07 2022 08:31:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182698518
   },
   "documents": [
     {
@@ -243,7 +243,7 @@
       "role": "chapter",
       "order": 8,
       "prev": "9.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -264,11 +264,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 164,
-      "chars": 1223,
+      "chars": 1220,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "10.html",
       "next": null,
@@ -286,7 +286,7 @@
   "totals": {
     "all": {
       "words": 54520,
-      "chars": 332506,
+      "chars": 332503,
       "ideas": 633
     },
     "chapters": {
