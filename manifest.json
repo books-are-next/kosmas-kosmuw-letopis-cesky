@@ -7,8 +7,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kosmas-kosmuw-letopis-cesky-b72ca1c",
-  "revision": "b72ca1c",
+  "identifier": "kosmas-kosmuw-letopis-cesky-599950b",
+  "revision": "599950b",
   "readingOrder": [
     "promo.html",
     "3.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:56:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417373175
+    "date": "Fri Oct 21 2022 11:35:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352117958
   },
   "documents": [
     {
